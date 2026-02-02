@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm   Shekhar </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Frontend+Developer;UI%2FUX+Designer;Problem+Solver;Tech+%2B+Design+Hybrid" />
+</p>
+
 <div align="center">
 	<img src="welcome-header.gif" alt="welcome to my github profile">
 	<br>
