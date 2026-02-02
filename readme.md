@@ -14,9 +14,9 @@
 
 <br>
 
-check out my latest app: [Supercharge](https://sindresorhus.com/supercharge) ![](hot.gif)
+check out my latest app: [Supercharge]((https://www.shekharr.in/)) ![](hot.gif)
 
-and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
+and my [latest blog post]((https://www.shekharr.in/)) ![](hot.gif)
 
 <br>
 <br>
@@ -24,3 +24,4 @@ and my [latest blog post](https://sindresorhus.com/blog) ![](hot.gif)
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
 ![](flames.gif)
+Credit @sindresorhus he is gem
