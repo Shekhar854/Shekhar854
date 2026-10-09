@@ -29,4 +29,14 @@ and my [latest blog post]((https://www.shekharr.in/)) ![](hot.gif)
 ![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
 
 ![](flames.gif)
+
+
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
+
+</div>
+
+
 Credit @sindresorhus he is gem
